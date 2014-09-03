@@ -1,6 +1,2 @@
-foobar
-======
-hola
-
 
 branch foobar
